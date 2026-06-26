@@ -1,6 +1,8 @@
 # OLA Ride Booking Data Analysis
 
 ## Project Overview
+___________________________________________________________________________________________________
+<img width="1536" height="1024" alt="Ola Final Banner" src="https://github.com/user-attachments/assets/080fee5c-c992-4e5b-a03d-1fe8fc657ae2" />
 
 This project analyzes OLA ride booking data using SQL, Excel, and Power BI to generate actionable business insights. 
 The objective is to understand booking trends, revenue performance, cancellation patterns, customer behavior, vehicle utilization, and service quality.
