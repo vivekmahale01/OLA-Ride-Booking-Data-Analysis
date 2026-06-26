@@ -66,6 +66,8 @@ Business questions solved using SQL:
 The dashboard consists of five interactive pages:
 
 ### 1. Overall Dashboard
+___________________________________________________________________________________________________
+<img width="2490" height="1440" alt="OLA_Dashboard_Preview_1" src="https://github.com/user-attachments/assets/9bb75741-2e6d-4d65-a687-9246e54ef668" />
 
 * Total Bookings
 * Total Revenue
@@ -73,6 +75,8 @@ The dashboard consists of five interactive pages:
 * Ride Volume Trend
 
 ### 2. Vehicle Type Dashboard
+___________________________________________________________________________________________________
+<img width="2490" height="1440" alt="OLA_Dashboard_Preview_2" src="https://github.com/user-attachments/assets/10591f4c-af91-45d5-b825-e9121a5f8713" />
 
 * Vehicle-wise Revenue
 * Success Booking Value
@@ -80,12 +84,16 @@ The dashboard consists of five interactive pages:
 * Total Distance Travelled
 
 ### 3. Revenue Dashboard
+___________________________________________________________________________________________________
+<img width="2490" height="1440" alt="OLA_Dashboard_Preview_3" src="https://github.com/user-attachments/assets/605aea19-281f-4781-8a7f-37c84992aee1" />
 
 * Revenue by Payment Method
 * Top Customers
 * Date-wise Ride Distance
 
 ### 4. Cancellation Dashboard
+___________________________________________________________________________________________________
+<img width="2490" height="1440" alt="OLA_Dashboard_Preview_4" src="https://github.com/user-attachments/assets/d3a8bd0a-3520-453b-9a28-fa02c7cf5b1f" />
 
 * Total Bookings
 * Successful Bookings
@@ -95,6 +103,8 @@ The dashboard consists of five interactive pages:
 * Customer Cancellation Analysis
 
 ### 5. Ratings Dashboard
+___________________________________________________________________________________________________
+<img width="2490" height="1440" alt="OLA_Dashboard_Preview_5" src="https://github.com/user-attachments/assets/a4262bed-1158-417b-a6d3-0f660353fd3c" />
 
 * Driver Ratings
 * Customer Ratings
